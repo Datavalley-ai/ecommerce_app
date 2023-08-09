@@ -1,0 +1,11 @@
+category_id,parent_id,category_name,category_description,icon,image_path,active,created_at,updated_at
+1,,Category 1,Category 1 Description,icon1.jpg,image1.jpg,true,2023-08-04 10:00:00,2023-08-04 10:00:00
+2,,Category 2,Category 2 Description,icon2.jpg,image2.jpg,true,2023-08-04 11:00:00,2023-08-04 11:00:00
+3,,Category 3,Category 3 Description,icon3.jpg,image3.jpg,true,2023-08-04 12:00:00,2023-08-04 12:00:00
+4,1,Category 4,Category 4 Description,icon4.jpg,image4.jpg,true,2023-08-04 13:00:00,2023-08-04 13:00:00
+5,1,Category 5,Category 5 Description,icon5.jpg,image5.jpg,true,2023-08-04 14:00:00,2023-08-04 14:00:00
+6,2,Category 6,Category 6 Description,icon6.jpg,image6.jpg,true,2023-08-04 15:00:00,2023-08-04 15:00:00
+7,3,Category 7,Category 7 Description,icon7.jpg,image7.jpg,true,2023-08-04 16:00:00,2023-08-04 16:00:00
+8,2,Category 8,Category 8 Description,icon8.jpg,image8.jpg,true,2023-08-04 17:00:00,2023-08-04 17:00:00
+9,3,Category 9,Category 9 Description,icon9.jpg,image9.jpg,true,2023-08-04 18:00:00,2023-08-04 18:00:00
+10,1,Category 10,Category 10 Description,icon10.jpg,image10.jpg,true,2023-08-04 19:00:00,2023-08-04 19:00:00
